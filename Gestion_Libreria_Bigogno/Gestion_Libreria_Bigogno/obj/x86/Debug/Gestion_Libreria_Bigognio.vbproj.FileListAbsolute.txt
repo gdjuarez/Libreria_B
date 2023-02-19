@@ -1,0 +1,162 @@
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Libreria_Bigognio\Gestion_Libreria_Bigognio\bin\Debug\GestionLibreriaBigogno.exe.config
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Libreria_Bigognio\Gestion_Libreria_Bigognio\bin\Debug\GestionLibreriaBigogno.exe.manifest
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Libreria_Bigognio\Gestion_Libreria_Bigognio\bin\Debug\GestionLibreriaBigogno.application
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Libreria_Bigognio\Gestion_Libreria_Bigognio\bin\Debug\GestionLibreriaBigogno.exe
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Libreria_Bigognio\Gestion_Libreria_Bigognio\bin\Debug\GestionLibreriaBigogno.pdb
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Libreria_Bigognio\Gestion_Libreria_Bigognio\bin\Debug\GestionLibreriaBigogno.xml
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Libreria_Bigognio\Gestion_Libreria_Bigognio\obj\x86\Debug\GestionLibreriaBigogno.FrmActualizaPrecio.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Libreria_Bigognio\Gestion_Libreria_Bigognio\obj\x86\Debug\GestionLibreriaBigogno.FrmMarca.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Libreria_Bigognio\Gestion_Libreria_Bigognio\obj\x86\Debug\GestionLibreriaBigogno.FrmBusquedaPresupuesto.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Libreria_Bigognio\Gestion_Libreria_Bigognio\obj\x86\Debug\GestionLibreriaBigogno.FrmBusquedaVenta.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Libreria_Bigognio\Gestion_Libreria_Bigognio\obj\x86\Debug\GestionLibreriaBigogno.FrmBusquedaVentaSinPago.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Libreria_Bigognio\Gestion_Libreria_Bigognio\obj\x86\Debug\GestionLibreriaBigogno.FrmArqueo.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Libreria_Bigognio\Gestion_Libreria_Bigognio\obj\x86\Debug\GestionLibreriaBigogno.frmCaja.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Libreria_Bigognio\Gestion_Libreria_Bigognio\obj\x86\Debug\GestionLibreriaBigogno.FrmAnulaVenta.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Libreria_Bigognio\Gestion_Libreria_Bigognio\obj\x86\Debug\GestionLibreriaBigogno.FrmVentasCC.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Libreria_Bigognio\Gestion_Libreria_Bigognio\obj\x86\Debug\GestionLibreriaBigogno.FacturaImpresion.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Libreria_Bigognio\Gestion_Libreria_Bigognio\obj\x86\Debug\GestionLibreriaBigogno.PresupuestoImpresion.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Libreria_Bigognio\Gestion_Libreria_Bigognio\obj\x86\Debug\GestionLibreriaBigogno.FrmArticulos.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Libreria_Bigognio\Gestion_Libreria_Bigognio\obj\x86\Debug\GestionLibreriaBigogno.frmClientes.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Libreria_Bigognio\Gestion_Libreria_Bigognio\obj\x86\Debug\GestionLibreriaBigogno.FrmMisDatos.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Libreria_Bigognio\Gestion_Libreria_Bigognio\obj\x86\Debug\GestionLibreriaBigogno.frmProveedores.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Libreria_Bigognio\Gestion_Libreria_Bigognio\obj\x86\Debug\GestionLibreriaBigogno.FrmAbout.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Libreria_Bigognio\Gestion_Libreria_Bigognio\obj\x86\Debug\GestionLibreriaBigogno.FrmBackUp.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Libreria_Bigognio\Gestion_Libreria_Bigognio\obj\x86\Debug\GestionLibreriaBigogno.FrmHacerBackup.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Libreria_Bigognio\Gestion_Libreria_Bigognio\obj\x86\Debug\GestionLibreriaBigogno.FrmRestaurarBackUp.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Libreria_Bigognio\Gestion_Libreria_Bigognio\obj\x86\Debug\GestionLibreriaBigogno.FrmBusquedaArticulo.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Libreria_Bigognio\Gestion_Libreria_Bigognio\obj\x86\Debug\GestionLibreriaBigogno.FrmBusquedaCliente.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Libreria_Bigognio\Gestion_Libreria_Bigognio\obj\x86\Debug\GestionLibreriaBigogno.frmCompras.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Libreria_Bigognio\Gestion_Libreria_Bigognio\obj\x86\Debug\GestionLibreriaBigogno.FrmPresupuestos.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Libreria_Bigognio\Gestion_Libreria_Bigognio\obj\x86\Debug\GestionLibreriaBigogno.FrmVentas.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Libreria_Bigognio\Gestion_Libreria_Bigognio\obj\x86\Debug\GestionLibreriaBigogno.frmUsuarios.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Libreria_Bigognio\Gestion_Libreria_Bigognio\obj\x86\Debug\GestionLibreriaBigogno.LoginFormUsuarios.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Libreria_Bigognio\Gestion_Libreria_Bigognio\obj\x86\Debug\GestionLibreriaBigogno.FrmNavegador.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Libreria_Bigognio\Gestion_Libreria_Bigognio\obj\x86\Debug\GestionLibreriaBigogno.MDIMenu.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Libreria_Bigognio\Gestion_Libreria_Bigognio\obj\x86\Debug\GestionLibreriaBigogno.FrmDesdeHasta.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Libreria_Bigognio\Gestion_Libreria_Bigognio\obj\x86\Debug\GestionLibreriaBigogno.FrmInformeCaja.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Libreria_Bigognio\Gestion_Libreria_Bigognio\obj\x86\Debug\GestionLibreriaBigogno.FrmInformeClientes.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Libreria_Bigognio\Gestion_Libreria_Bigognio\obj\x86\Debug\GestionLibreriaBigogno.FrmInformeCompras.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Libreria_Bigognio\Gestion_Libreria_Bigognio\obj\x86\Debug\GestionLibreriaBigogno.FrmInformeProveedores.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Libreria_Bigognio\Gestion_Libreria_Bigognio\obj\x86\Debug\GestionLibreriaBigogno.FrmInformeStock.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Libreria_Bigognio\Gestion_Libreria_Bigognio\obj\x86\Debug\GestionLibreriaBigogno.FrmInformeVentas.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Libreria_Bigognio\Gestion_Libreria_Bigognio\obj\x86\Debug\GestionLibreriaBigogno.FrmLogin.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Libreria_Bigognio\Gestion_Libreria_Bigognio\obj\x86\Debug\GestionLibreriaBigogno.Resources.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Libreria_Bigognio\Gestion_Libreria_Bigognio\obj\x86\Debug\Gestion_Libreria_Bigognio.vbproj.GenerateResource.Cache
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Libreria_Bigognio\Gestion_Libreria_Bigognio\obj\x86\Debug\RdlCompile.cache
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Libreria_Bigognio\Gestion_Libreria_Bigognio\obj\x86\Debug\RdlCompile.compiled
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Libreria_Bigognio\Gestion_Libreria_Bigognio\obj\x86\Debug\GestionLibreriaBigogno.exe.manifest
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Libreria_Bigognio\Gestion_Libreria_Bigognio\obj\x86\Debug\GestionLibreriaBigogno.application
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Libreria_Bigognio\Gestion_Libreria_Bigognio\obj\x86\Debug\GestionLibreriaBigogno.exe
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Libreria_Bigognio\Gestion_Libreria_Bigognio\obj\x86\Debug\GestionLibreriaBigogno.xml
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Libreria_Bigognio\Gestion_Libreria_Bigognio\obj\x86\Debug\GestionLibreriaBigogno.pdb
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Libreria_Bigogno\Gestion_Libreria_Bigognio\bin\Debug\GestionLibreriaBigogno.exe.config
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Libreria_Bigogno\Gestion_Libreria_Bigognio\bin\Debug\GestionLibreriaBigogno.exe.manifest
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Libreria_Bigogno\Gestion_Libreria_Bigognio\bin\Debug\GestionLibreriaBigogno.application
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Libreria_Bigogno\Gestion_Libreria_Bigognio\bin\Debug\GestionLibreriaBigogno.exe
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Libreria_Bigogno\Gestion_Libreria_Bigognio\bin\Debug\GestionLibreriaBigogno.pdb
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Libreria_Bigogno\Gestion_Libreria_Bigognio\bin\Debug\GestionLibreriaBigogno.xml
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Libreria_Bigogno\Gestion_Libreria_Bigognio\obj\x86\Debug\GestionLibreriaBigogno.FrmActualizaPrecio.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Libreria_Bigogno\Gestion_Libreria_Bigognio\obj\x86\Debug\GestionLibreriaBigogno.FrmMarca.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Libreria_Bigogno\Gestion_Libreria_Bigognio\obj\x86\Debug\GestionLibreriaBigogno.FrmClienteRetira.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Libreria_Bigogno\Gestion_Libreria_Bigognio\obj\x86\Debug\GestionLibreriaBigogno.FrmBusquedaPresupuesto.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Libreria_Bigogno\Gestion_Libreria_Bigognio\obj\x86\Debug\GestionLibreriaBigogno.FrmBusquedaVenta.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Libreria_Bigogno\Gestion_Libreria_Bigognio\obj\x86\Debug\GestionLibreriaBigogno.FrmBusquedaVentaSinPago.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Libreria_Bigogno\Gestion_Libreria_Bigognio\obj\x86\Debug\GestionLibreriaBigogno.FrmArqueo.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Libreria_Bigogno\Gestion_Libreria_Bigognio\obj\x86\Debug\GestionLibreriaBigogno.frmCaja.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Libreria_Bigogno\Gestion_Libreria_Bigognio\obj\x86\Debug\GestionLibreriaBigogno.FrmAnulaVenta.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Libreria_Bigogno\Gestion_Libreria_Bigognio\obj\x86\Debug\GestionLibreriaBigogno.FrmVentasCC.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Libreria_Bigogno\Gestion_Libreria_Bigognio\obj\x86\Debug\GestionLibreriaBigogno.FacturaImpresion.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Libreria_Bigogno\Gestion_Libreria_Bigognio\obj\x86\Debug\GestionLibreriaBigogno.PresupuestoImpresion.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Libreria_Bigogno\Gestion_Libreria_Bigognio\obj\x86\Debug\GestionLibreriaBigogno.FrmArticulos.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Libreria_Bigogno\Gestion_Libreria_Bigognio\obj\x86\Debug\GestionLibreriaBigogno.frmClientes.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Libreria_Bigogno\Gestion_Libreria_Bigognio\obj\x86\Debug\GestionLibreriaBigogno.FrmMisDatos.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Libreria_Bigogno\Gestion_Libreria_Bigognio\obj\x86\Debug\GestionLibreriaBigogno.frmProveedores.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Libreria_Bigogno\Gestion_Libreria_Bigognio\obj\x86\Debug\GestionLibreriaBigogno.FrmAbout.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Libreria_Bigogno\Gestion_Libreria_Bigognio\obj\x86\Debug\GestionLibreriaBigogno.FrmBackUp.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Libreria_Bigogno\Gestion_Libreria_Bigognio\obj\x86\Debug\GestionLibreriaBigogno.FrmHacerBackup.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Libreria_Bigogno\Gestion_Libreria_Bigognio\obj\x86\Debug\GestionLibreriaBigogno.FrmRestaurarBackUp.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Libreria_Bigogno\Gestion_Libreria_Bigognio\obj\x86\Debug\GestionLibreriaBigogno.FrmBusquedaArticulo.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Libreria_Bigogno\Gestion_Libreria_Bigognio\obj\x86\Debug\GestionLibreriaBigogno.FrmBusquedaCliente.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Libreria_Bigogno\Gestion_Libreria_Bigognio\obj\x86\Debug\GestionLibreriaBigogno.frmCompras.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Libreria_Bigogno\Gestion_Libreria_Bigognio\obj\x86\Debug\GestionLibreriaBigogno.FrmPresupuestos.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Libreria_Bigogno\Gestion_Libreria_Bigognio\obj\x86\Debug\GestionLibreriaBigogno.FrmVentas.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Libreria_Bigogno\Gestion_Libreria_Bigognio\obj\x86\Debug\GestionLibreriaBigogno.frmUsuarios.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Libreria_Bigogno\Gestion_Libreria_Bigognio\obj\x86\Debug\GestionLibreriaBigogno.LoginFormUsuarios.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Libreria_Bigogno\Gestion_Libreria_Bigognio\obj\x86\Debug\GestionLibreriaBigogno.FrmNavegador.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Libreria_Bigogno\Gestion_Libreria_Bigognio\obj\x86\Debug\GestionLibreriaBigogno.FrmInformeStockMinimo.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Libreria_Bigogno\Gestion_Libreria_Bigognio\obj\x86\Debug\GestionLibreriaBigogno.MDIMenu.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Libreria_Bigogno\Gestion_Libreria_Bigognio\obj\x86\Debug\GestionLibreriaBigogno.FrmDesdeHasta.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Libreria_Bigogno\Gestion_Libreria_Bigognio\obj\x86\Debug\GestionLibreriaBigogno.FrmInformeCaja.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Libreria_Bigogno\Gestion_Libreria_Bigognio\obj\x86\Debug\GestionLibreriaBigogno.FrmInformeClientes.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Libreria_Bigogno\Gestion_Libreria_Bigognio\obj\x86\Debug\GestionLibreriaBigogno.FrmInformeCompras.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Libreria_Bigogno\Gestion_Libreria_Bigognio\obj\x86\Debug\GestionLibreriaBigogno.FrmInformeProveedores.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Libreria_Bigogno\Gestion_Libreria_Bigognio\obj\x86\Debug\GestionLibreriaBigogno.FrmInformeStock.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Libreria_Bigogno\Gestion_Libreria_Bigognio\obj\x86\Debug\GestionLibreriaBigogno.FrmInformeVentas.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Libreria_Bigogno\Gestion_Libreria_Bigognio\obj\x86\Debug\GestionLibreriaBigogno.FrmLogin.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Libreria_Bigogno\Gestion_Libreria_Bigognio\obj\x86\Debug\GestionLibreriaBigogno.Resources.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Libreria_Bigogno\Gestion_Libreria_Bigognio\obj\x86\Debug\Gestion_Libreria_Bigognio.vbproj.GenerateResource.Cache
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Libreria_Bigogno\Gestion_Libreria_Bigognio\obj\x86\Debug\RdlCompile.cache
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Libreria_Bigogno\Gestion_Libreria_Bigognio\obj\x86\Debug\RdlCompile.compiled
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Libreria_Bigogno\Gestion_Libreria_Bigognio\obj\x86\Debug\GestionLibreriaBigogno.exe.manifest
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Libreria_Bigogno\Gestion_Libreria_Bigognio\obj\x86\Debug\GestionLibreriaBigogno.application
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Libreria_Bigogno\Gestion_Libreria_Bigognio\obj\x86\Debug\GestionLibreriaBigogno.exe
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Libreria_Bigogno\Gestion_Libreria_Bigognio\obj\x86\Debug\GestionLibreriaBigogno.xml
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Libreria_Bigogno\Gestion_Libreria_Bigognio\obj\x86\Debug\GestionLibreriaBigogno.pdb
+E:\PROYECTOS GIFSYS\Gestion_Libreria_Bigogno\Gestion_Libreria_Bigognio\bin\Debug\GestionLibreriaBigogno.exe.config
+E:\PROYECTOS GIFSYS\Gestion_Libreria_Bigogno\Gestion_Libreria_Bigognio\bin\Debug\GestionLibreriaBigogno.exe.manifest
+E:\PROYECTOS GIFSYS\Gestion_Libreria_Bigogno\Gestion_Libreria_Bigognio\bin\Debug\GestionLibreriaBigogno.application
+E:\PROYECTOS GIFSYS\Gestion_Libreria_Bigogno\Gestion_Libreria_Bigognio\bin\Debug\GestionLibreriaBigogno.exe
+E:\PROYECTOS GIFSYS\Gestion_Libreria_Bigogno\Gestion_Libreria_Bigognio\bin\Debug\GestionLibreriaBigogno.pdb
+E:\PROYECTOS GIFSYS\Gestion_Libreria_Bigogno\Gestion_Libreria_Bigognio\bin\Debug\GestionLibreriaBigogno.xml
+E:\PROYECTOS GIFSYS\Gestion_Libreria_Bigogno\Gestion_Libreria_Bigognio\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\PROYECTOS GIFSYS\Gestion_Libreria_Bigogno\Gestion_Libreria_Bigognio\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\PROYECTOS GIFSYS\Gestion_Libreria_Bigogno\Gestion_Libreria_Bigognio\bin\Debug\MySql.Data.dll
+E:\PROYECTOS GIFSYS\Gestion_Libreria_Bigogno\Gestion_Libreria_Bigognio\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+E:\PROYECTOS GIFSYS\Gestion_Libreria_Bigogno\Gestion_Libreria_Bigognio\obj\x86\Debug\Gestion_Libreria_Bigognio.vbprojAssemblyReference.cache
+E:\PROYECTOS GIFSYS\Gestion_Libreria_Bigogno\Gestion_Libreria_Bigognio\obj\x86\Debug\GestionLibreriaBigogno.FrmActualizaPrecio.resources
+E:\PROYECTOS GIFSYS\Gestion_Libreria_Bigogno\Gestion_Libreria_Bigognio\obj\x86\Debug\GestionLibreriaBigogno.FrmMarca.resources
+E:\PROYECTOS GIFSYS\Gestion_Libreria_Bigogno\Gestion_Libreria_Bigognio\obj\x86\Debug\GestionLibreriaBigogno.FrmClienteRetira.resources
+E:\PROYECTOS GIFSYS\Gestion_Libreria_Bigogno\Gestion_Libreria_Bigognio\obj\x86\Debug\GestionLibreriaBigogno.FrmBusquedaPresupuesto.resources
+E:\PROYECTOS GIFSYS\Gestion_Libreria_Bigogno\Gestion_Libreria_Bigognio\obj\x86\Debug\GestionLibreriaBigogno.FrmBusquedaVenta.resources
+E:\PROYECTOS GIFSYS\Gestion_Libreria_Bigogno\Gestion_Libreria_Bigognio\obj\x86\Debug\GestionLibreriaBigogno.FrmBusquedaVentaSinPago.resources
+E:\PROYECTOS GIFSYS\Gestion_Libreria_Bigogno\Gestion_Libreria_Bigognio\obj\x86\Debug\GestionLibreriaBigogno.FrmArqueo.resources
+E:\PROYECTOS GIFSYS\Gestion_Libreria_Bigogno\Gestion_Libreria_Bigognio\obj\x86\Debug\GestionLibreriaBigogno.frmCaja.resources
+E:\PROYECTOS GIFSYS\Gestion_Libreria_Bigogno\Gestion_Libreria_Bigognio\obj\x86\Debug\GestionLibreriaBigogno.FrmAnulaVenta.resources
+E:\PROYECTOS GIFSYS\Gestion_Libreria_Bigogno\Gestion_Libreria_Bigognio\obj\x86\Debug\GestionLibreriaBigogno.FrmVentasCC.resources
+E:\PROYECTOS GIFSYS\Gestion_Libreria_Bigogno\Gestion_Libreria_Bigognio\obj\x86\Debug\GestionLibreriaBigogno.FacturaImpresion.resources
+E:\PROYECTOS GIFSYS\Gestion_Libreria_Bigogno\Gestion_Libreria_Bigognio\obj\x86\Debug\GestionLibreriaBigogno.PresupuestoImpresion.resources
+E:\PROYECTOS GIFSYS\Gestion_Libreria_Bigogno\Gestion_Libreria_Bigognio\obj\x86\Debug\GestionLibreriaBigogno.FrmArticulos.resources
+E:\PROYECTOS GIFSYS\Gestion_Libreria_Bigogno\Gestion_Libreria_Bigognio\obj\x86\Debug\GestionLibreriaBigogno.frmClientes.resources
+E:\PROYECTOS GIFSYS\Gestion_Libreria_Bigogno\Gestion_Libreria_Bigognio\obj\x86\Debug\GestionLibreriaBigogno.FrmMisDatos.resources
+E:\PROYECTOS GIFSYS\Gestion_Libreria_Bigogno\Gestion_Libreria_Bigognio\obj\x86\Debug\GestionLibreriaBigogno.frmProveedores.resources
+E:\PROYECTOS GIFSYS\Gestion_Libreria_Bigogno\Gestion_Libreria_Bigognio\obj\x86\Debug\GestionLibreriaBigogno.FrmAbout.resources
+E:\PROYECTOS GIFSYS\Gestion_Libreria_Bigogno\Gestion_Libreria_Bigognio\obj\x86\Debug\GestionLibreriaBigogno.FrmBackUp.resources
+E:\PROYECTOS GIFSYS\Gestion_Libreria_Bigogno\Gestion_Libreria_Bigognio\obj\x86\Debug\GestionLibreriaBigogno.FrmHacerBackup.resources
+E:\PROYECTOS GIFSYS\Gestion_Libreria_Bigogno\Gestion_Libreria_Bigognio\obj\x86\Debug\GestionLibreriaBigogno.FrmRestaurarBackUp.resources
+E:\PROYECTOS GIFSYS\Gestion_Libreria_Bigogno\Gestion_Libreria_Bigognio\obj\x86\Debug\GestionLibreriaBigogno.FrmBusquedaArticulo.resources
+E:\PROYECTOS GIFSYS\Gestion_Libreria_Bigogno\Gestion_Libreria_Bigognio\obj\x86\Debug\GestionLibreriaBigogno.FrmBusquedaCliente.resources
+E:\PROYECTOS GIFSYS\Gestion_Libreria_Bigogno\Gestion_Libreria_Bigognio\obj\x86\Debug\GestionLibreriaBigogno.frmCompras.resources
+E:\PROYECTOS GIFSYS\Gestion_Libreria_Bigogno\Gestion_Libreria_Bigognio\obj\x86\Debug\GestionLibreriaBigogno.FrmPresupuestos.resources
+E:\PROYECTOS GIFSYS\Gestion_Libreria_Bigogno\Gestion_Libreria_Bigognio\obj\x86\Debug\GestionLibreriaBigogno.FrmVentas.resources
+E:\PROYECTOS GIFSYS\Gestion_Libreria_Bigogno\Gestion_Libreria_Bigognio\obj\x86\Debug\GestionLibreriaBigogno.frmUsuarios.resources
+E:\PROYECTOS GIFSYS\Gestion_Libreria_Bigogno\Gestion_Libreria_Bigognio\obj\x86\Debug\GestionLibreriaBigogno.LoginFormUsuarios.resources
+E:\PROYECTOS GIFSYS\Gestion_Libreria_Bigogno\Gestion_Libreria_Bigognio\obj\x86\Debug\GestionLibreriaBigogno.FrmNavegador.resources
+E:\PROYECTOS GIFSYS\Gestion_Libreria_Bigogno\Gestion_Libreria_Bigognio\obj\x86\Debug\GestionLibreriaBigogno.FrmInformeStockMinimo.resources
+E:\PROYECTOS GIFSYS\Gestion_Libreria_Bigogno\Gestion_Libreria_Bigognio\obj\x86\Debug\GestionLibreriaBigogno.MDIMenu.resources
+E:\PROYECTOS GIFSYS\Gestion_Libreria_Bigogno\Gestion_Libreria_Bigognio\obj\x86\Debug\GestionLibreriaBigogno.FrmDesdeHasta.resources
+E:\PROYECTOS GIFSYS\Gestion_Libreria_Bigogno\Gestion_Libreria_Bigognio\obj\x86\Debug\GestionLibreriaBigogno.FrmInformeCaja.resources
+E:\PROYECTOS GIFSYS\Gestion_Libreria_Bigogno\Gestion_Libreria_Bigognio\obj\x86\Debug\GestionLibreriaBigogno.FrmInformeClientes.resources
+E:\PROYECTOS GIFSYS\Gestion_Libreria_Bigogno\Gestion_Libreria_Bigognio\obj\x86\Debug\GestionLibreriaBigogno.FrmInformeCompras.resources
+E:\PROYECTOS GIFSYS\Gestion_Libreria_Bigogno\Gestion_Libreria_Bigognio\obj\x86\Debug\GestionLibreriaBigogno.FrmInformeProveedores.resources
+E:\PROYECTOS GIFSYS\Gestion_Libreria_Bigogno\Gestion_Libreria_Bigognio\obj\x86\Debug\GestionLibreriaBigogno.FrmInformeStock.resources
+E:\PROYECTOS GIFSYS\Gestion_Libreria_Bigogno\Gestion_Libreria_Bigognio\obj\x86\Debug\GestionLibreriaBigogno.FrmInformeVentas.resources
+E:\PROYECTOS GIFSYS\Gestion_Libreria_Bigogno\Gestion_Libreria_Bigognio\obj\x86\Debug\GestionLibreriaBigogno.FrmLogin.resources
+E:\PROYECTOS GIFSYS\Gestion_Libreria_Bigogno\Gestion_Libreria_Bigognio\obj\x86\Debug\GestionLibreriaBigogno.Resources.resources
+E:\PROYECTOS GIFSYS\Gestion_Libreria_Bigogno\Gestion_Libreria_Bigognio\obj\x86\Debug\Gestion_Libreria_Bigognio.vbproj.GenerateResource.cache
+E:\PROYECTOS GIFSYS\Gestion_Libreria_Bigogno\Gestion_Libreria_Bigognio\obj\x86\Debug\Gestion_Libreria_Bigognio.vbproj.CoreCompileInputs.cache
+E:\PROYECTOS GIFSYS\Gestion_Libreria_Bigogno\Gestion_Libreria_Bigognio\obj\x86\Debug\GestionLibreriaBigogno.exe.manifest
+E:\PROYECTOS GIFSYS\Gestion_Libreria_Bigogno\Gestion_Libreria_Bigognio\obj\x86\Debug\GestionLibreriaBigogno.application
+E:\PROYECTOS GIFSYS\Gestion_Libreria_Bigogno\Gestion_Libreria_Bigognio\obj\x86\Debug\Gestion_Libreria_Bigognio.vbproj.CopyComplete
+E:\PROYECTOS GIFSYS\Gestion_Libreria_Bigogno\Gestion_Libreria_Bigognio\obj\x86\Debug\GestionLibreriaBigogno.exe
+E:\PROYECTOS GIFSYS\Gestion_Libreria_Bigogno\Gestion_Libreria_Bigognio\obj\x86\Debug\GestionLibreriaBigogno.xml
+E:\PROYECTOS GIFSYS\Gestion_Libreria_Bigogno\Gestion_Libreria_Bigognio\obj\x86\Debug\GestionLibreriaBigogno.pdb
